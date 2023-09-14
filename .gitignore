@@ -70,3 +70,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assembly-CSharp.csproj
+Assets/materials & Textures/SmokeParticles/Smoke 1.png.meta
+Assets/materials & Textures/SmokeParticles/Smoke 1.png
+Assets/materials & Textures/Particle Systems/Materials/8f589f2d-0c83-4ecd-9a3b-4050642b1598.png
+Assets/materials & Textures/Particle Systems/Materials/8f589f2d-0c83-4ecd-9a3b-4050642b1598.png.meta
